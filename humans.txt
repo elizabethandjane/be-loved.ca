@@ -11,4 +11,4 @@
   - Git
 
   Hosting:
-  - WiredTree <http://www.wiredtree.com/>
+  - GitHub <https://github.com/elizabethandjane/be-loved.ca>
